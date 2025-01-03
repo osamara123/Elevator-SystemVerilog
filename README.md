@@ -43,4 +43,7 @@ f79e7f50197)
 03efd21625)
 ![Test_case_3,4](https://github.com/user-attachments/assets/50ab2b3b-2284-4073-a2cc-016335380062)
 
+# Synthesization
+This design is being syntheiszed on FPGA 5CEBA4F23C7 with oly edit of initializing the requests on always_ff instead of assign to avoid shown x's in synthesization. 
+
 
